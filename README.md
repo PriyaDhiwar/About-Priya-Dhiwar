@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Dhiwar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fcan-you-become-a-data-analyst-by-online-tutorials-big-data-analytics blog%2F&psig=AOvVaw1pA2lSavWqtB_4T_VNp_2t&ust=1708191497292000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiQ1MCss7CEAxVGX2wGHV56AaEQjRx6BAgAEBY](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)">
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fimarticus.org%2Fblog%2Fcan-you-become-a-data-analyst-by-online-tutorials-big-data-analytics blog%2F&psig=AOvVaw1pA2lSavWqtB_4T_VNp_2t&ust=1708191497292000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiQ1MCss7CEAxVGX2wGHV56AaEQjRx6BAgAEBY](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inzata.com%2F&psig=AOvVaw1Q_HzmUVv2nM2u-3OY4JMX&ust=1708191848892000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiH1qa1sIQDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadhiwar&label=Profile%20views&color=0e75b6&style=flat" alt="priyadhiwar" /> </p>
 
