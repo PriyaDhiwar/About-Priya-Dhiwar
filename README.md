@@ -1,5 +1,5 @@
 [![Masterhead](https://www.primeone.global/wp-content/uploads/2022/02/Importance-Of-Data-Analytics-.gif)]
-<h1 align="center">Hi 👋, I'm Priya Dhiwar</h1>
+<h1 align="center">Hi, I'm Priya Dhiwar</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <img align="right" alt="coding" width="500" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
